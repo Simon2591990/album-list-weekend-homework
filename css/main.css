@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+form {
+    background-color: rgb(143, 238, 255);
+    padding: 10px;
+    margin: 10px
+    
+}
+.form-item{
+    margin: 2px
+}
+
+#heading {
+    margin:10px
+}
+
+.submission {
+    background-color: rgb(143, 238, 255);
+}
+
+#album-list {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.submission {
+    margin: 0.5rem 0.5rem;
+    padding: 0.5rem 0.8rem;
+    border: 1px solid #20437c;
+    border-radius: 5px;
+    background: #ddeaff;
+    align-content: center;
+}
