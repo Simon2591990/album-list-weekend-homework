@@ -26,10 +26,10 @@ form {
 }
 
 .submission {
-    margin: 0.5rem 0.5rem;
-    padding: 0.5rem 0.8rem;
-    border: 1px solid #20437c;
+    margin: 5px;
+    padding: 10px;
+    border: 1px solid #000000;
     border-radius: 5px;
-    background: #ddeaff;
+    background: rgb(143, 238, 255);
     align-content: center;
 }
